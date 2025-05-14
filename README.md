@@ -1,78 +1,71 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhammad Sameer
 
-<!--
-**muhammadsameerfaisal/muhammadsameerfaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Full-Stack Web Developer | Passionate About Learning and Building in Public**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👶 Learn Modern Web Application Development in Baby Steps
-
-Welcome to my very first GitHub repository! 🎉
-
-This repo is part of my learning journey as I dive into **Modern Web Application Development**. I'm documenting everything step-by-step as I learn, build, and grow — just like baby steps 🚼👣. Whether you're a beginner like me or someone looking to refresh their knowledge, you're welcome to follow along!
+Welcome to my GitHub profile. I am currently pursuing a structured path to mastering **modern web application development**, combining theoretical foundations with hands-on projects. My approach emphasizes deep understanding, consistency, and clarity.
 
 ---
 
-## 🚀 What I’m Currently Doing
+## ✅ Achievements
 
-I'm currently learning:
-
-- ✅ **HTML, CSS, and JavaScript** fundamentals
-- ✅ **Responsive Design** using modern CSS techniques
-- ✅ **Git & GitHub** for version control and collaboration
-- ✅ **React.js** basics (coming soon!)
-- ✅ **VS Code Setup & Best Practices**
-- ✅ How to structure a web project professionally
-
-I’m making sure to **understand everything deeply**, not rushing — learning at my own pace but consistently.
-
----
-
-## 📂 What You'll Find in This Repo
-
-This repo will include:
-
-- 📁 Practice files for each concept
-- 📝 Notes and comments to explain my thought process
-- 📚 Simple project builds and exercises
-- 🔄 Regular updates as I progress
+- Successfully completed the **"Python for Everybody" Specialization** – *University of Michigan*
+- Completed the **"Python for Data Science, AI & Development"** course – *IBM*
+- Developed a **capstone project** involving data retrieval, transformation, and visualization using Python
+- Acquired practical experience in:
+  - Python programming (including file handling and regular expressions)
+  - Web scraping, XML, and JSON data parsing
+  - SQL fundamentals for data querying
+  - Excel PivotTables for data analysis
+  - HTML and CSS for web structure and styling
 
 ---
 
-## 📌 Why This Repo Exists
+## 🚧 Ongoing Learning
 
-I created this to:
+As part of my self-guided project:  
+**[Learn Modern Web Application Development in Baby Steps](https://github.com/shahmeersensei/learn-modern-web-application-development-in-baby-steps)**  
+I am actively working on:
 
-1. Track my progress as I become a **full-stack web developer**
-2. Keep my learning open-source and help others like me
-3. Build a solid habit of learning, building, and sharing
+- Strengthening core knowledge of **HTML, CSS, and JavaScript**
+- Implementing **responsive design** using modern CSS methodologies
+- Practicing **version control** with Git and GitHub
+- Exploring **React.js** fundamentals *(upcoming)*
+- Following best practices in **VS Code setup** and project organization
 
----
-
-## 📫 Connect With Me
-
-I'm just getting started in the tech community and would love to connect with fellow learners and professionals!
-
-- [LinkedIn](https://www.linkedin.com/in/shahmeersensei)
-- [X (Twitter)](https://x.com/shahmeersensei)
-- [GitHub](https://github.com/shahmeersensei)
+My learning philosophy is focused on building a strong foundational understanding before advancing to complex topics.
 
 ---
 
-## ⭐️ Give it a Star!
+## 📁 Repository Overview
 
-If you find this helpful or want to support my learning journey, feel free to ⭐️ star this repository.
+My repositories are structured to include:
 
-Thanks for stopping by! 😊
+- Practical exercises for each concept learned
+- Well-documented code with explanatory comments
+- Mini-projects to reinforce application of skills
+- Regular updates to reflect learning progress
 
 ---
 
+## 🎯 Purpose of This Journey
+
+- To track and demonstrate my progress toward becoming a **full-stack web developer**
+- To contribute to the open-source community by sharing my learning path
+- To encourage consistency and discipline through public accountability
+
+---
+
+## 🌐 Connect With Me
+
+I am open to mentorship, collaboration, and professional networking opportunities:
+
+- [🔗 LinkedIn – Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-faisal-078040362/)
+- [💻 GitHub Profile](https://github.com/shahmeersensei)
+
+---
+
+## ⭐️ Acknowledgment
+
+If you find my work insightful or valuable, feel free to ⭐️ star the repository. Your support is greatly appreciated.
+
+Thank you for visiting my profile.

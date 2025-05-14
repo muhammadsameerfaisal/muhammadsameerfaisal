@@ -2,7 +2,7 @@
 
 **Aspiring Full-Stack Web Developer | Passionate About Learning and Building in Public**
 
-Welcome to my GitHub profile. I am currently pursuing a structured path to mastering **modern web application development**, combining theoretical foundations with hands-on projects. My approach emphasizes deep understanding, consistency, and clarity.
+Welcome to my GitHub profile. I am pursuing a structured path to mastering **modern web application development**, combining theoretical foundations with hands-on projects. My approach emphasizes deep understanding, consistency, and clarity.
 
 ---
 
@@ -26,26 +26,15 @@ As part of my self-guided project:
 **[Learn Modern Web Application Development in Baby Steps](https://github.com/shahmeersensei/learn-modern-web-application-development-in-baby-steps)**  
 I am actively working on:
 
-- Strengthening core knowledge of **HTML, CSS, and JavaScript**
+- Strengthening core knowledge of **HTML and CSS**
 - Implementing **responsive design** using modern CSS methodologies
 - Practicing **version control** with Git and GitHub
-- Exploring **React.js** fundamentals *(upcoming)*
 - Following best practices in **VS Code setup** and project organization
 
 My learning philosophy is focused on building a strong foundational understanding before advancing to complex topics.
 
 ---
 
-## 📁 Repository Overview
-
-My repositories are structured to include:
-
-- Practical exercises for each concept learned
-- Well-documented code with explanatory comments
-- Mini-projects to reinforce application of skills
-- Regular updates to reflect learning progress
-
----
 
 ## 🎯 Purpose of This Journey
 
@@ -60,7 +49,7 @@ My repositories are structured to include:
 I am open to mentorship, collaboration, and professional networking opportunities:
 
 - [🔗 LinkedIn – Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-faisal-078040362/)
-- [💻 GitHub Profile](https://github.com/shahmeersensei)
+- [💻 GitHub Profile](https://github.com/muhammadsameerfaisal)
 
 ---
 
